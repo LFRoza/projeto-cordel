@@ -59,6 +59,7 @@ div{
 
 div > p{
     padding-bottom: 6em;
+    padding-top: 30px;
 }
 
 div.n{
