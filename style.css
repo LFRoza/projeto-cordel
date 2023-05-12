@@ -90,12 +90,12 @@ footer{
 
 div#img1{
     background-image: url(imagens/background001.jpg);
-    background-position: bottom center;
+    background-position: center center;
     background-size: cover;
 }
 
 div#img2{
     background-image: url(imagens/background002.jpg);
-    background-position: bottom center;
+    background-position: center center;
     background-size: cover;
 }
