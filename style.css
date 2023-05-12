@@ -34,6 +34,7 @@ header > h1{
 }
 
 header > p{
+    font-size: 2vw;
     padding-bottom: 50px;   
 }
 
@@ -57,7 +58,7 @@ div{
 }
 
 div > p{
-    padding-bottom: 3.5em;
+    padding-bottom: 6em;
 }
 
 div.n{
@@ -84,7 +85,7 @@ footer{
     text-align: center;
     background-color: black;
     color: white;
-    font-size: 10px;
+    font-size: 2vw;;
 }
 
 div#img1{
