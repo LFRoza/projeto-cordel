@@ -58,8 +58,8 @@ div{
 }
 
 div > p{
-    padding-bottom: 6em;
-    padding-top: 30px;
+    padding-bottom: 2em;
+    padding: 30px;
 }
 
 div.n{
@@ -91,12 +91,12 @@ footer{
 
 div#img1{
     background-image: url(imagens/background001.jpg);
-    background-position: right center;
+    background-position: top center;
     background-size: cover;
 }
 
 div#img2{
     background-image: url(imagens/background002.jpg);
-    background-position: right center;
+    background-position: top center;
     background-size: cover;
 }
